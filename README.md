@@ -1,4 +1,3 @@
-# Assignment7_API
 # Async and Await Practice
 
 This project is a practice exercise for working with asynchronous programming in Python using `asyncio` and `await`.
